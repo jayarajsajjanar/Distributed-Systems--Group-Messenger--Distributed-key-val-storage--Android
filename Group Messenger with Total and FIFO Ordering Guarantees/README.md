@@ -1,4 +1,4 @@
-# Distributed Systems, Group Messenger, Distributed key-val storage, Android
+# Group Messenger with Total and FIFO Ordering Guarantees
 
 CSE 486/586 Distributed Systems
 

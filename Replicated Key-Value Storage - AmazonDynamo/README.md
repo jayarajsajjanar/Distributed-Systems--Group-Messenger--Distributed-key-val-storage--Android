@@ -1,4 +1,4 @@
-# Distributed Systems, Group Messenger, Distributed key-val storage, Android
+# Replicated Key-Value Storage - AmazonDynamo
 
 CSE 486/586 Distributed Systems Programming Assignment 4
 
