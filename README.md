@@ -5,3 +5,4 @@
 3. Code in **java**. Used **Android SDK** to simulate the distributed system with multiple nodes.  
 4. 2 projects are included. Projects are a part of **CSE586 course at University at Buffalo** taken by Steven Ko.
 5. Project description in each of the folders.                        
+6. https://www.cse.buffalo.edu//~stevko/courses/cse486/spring12/
